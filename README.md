@@ -44,6 +44,6 @@ This project provides a fully automated Pull Request (PR) resolution workflow us
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/your-org/rag-pr-automation.git
-cd rag-pr-automation
+git clone https://github.com/aldodelgado/AI-Jam-RAG.git
+cd AI-Jam-RAG
 pip install -r requirements.txt
